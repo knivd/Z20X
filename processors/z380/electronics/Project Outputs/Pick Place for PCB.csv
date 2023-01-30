@@ -1,0 +1,39 @@
+Altium Designer Pick and Place Locations
+K:\Work\Z20X\processors\z380\electronics\Project Outputs\Pick Place for PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/03/20
+Time:       16:36
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"MOD1","Z20X CPU Module","BottomLayer","PGA100X15","0.0000","0.0000","0",""
+"C1","100n","TopLayer","_0805_CAP","-9.7500","4.2500","90","Capacitor"
+"C2","100n","TopLayer","_0805_CAP","-9.7500","-7.2500","90","Capacitor"
+"C3","100n","TopLayer","_0805_CAP","-2.5000","-10.7500","180","Capacitor"
+"C4","100n","TopLayer","_0805_CAP","6.5000","-10.0000","360","Capacitor"
+"C5","100n","TopLayer","_0805_CAP","12.2500","-0.2500","90","Capacitor"
+"C6","100n","TopLayer","_0805_CAP","12.2500","8.7500","90","Capacitor"
+"C7","100n","TopLayer","_0805_CAP","2.0000","11.5000","180","Capacitor"
+"C8","100n","TopLayer","_0805_CAP","-4.5000","11.5000","360","Capacitor"
+"C9","100n","TopLayer","_0805_CAP","2.7500","1.0000","180","Capacitor"
+"C10","100n","TopLayer","_0805_CAP","-5.0000","-3.7500","90","Capacitor"
+"C11","100n","BottomLayer","_0805_CAP","-29.8450","-7.6200","90","Capacitor"
+"C12","100n","TopLayer","_0805_CAP","-0.7500","2.0000","270","Capacitor"
+"R1","10k","TopLayer","_0805_RES","2.7500","3.5000","180","Resistor"
+"R2","10k","TopLayer","_0805_RES","-2.5000","-8.5000","360","Resistor"
+"R3","10k","TopLayer","_0805_RES","-4.5000","9.0000","360","Resistor"
+"R4","10k","TopLayer","_0805_RES","12.2500","-6.7500","90","Resistor"
+"R5","1k","TopLayer","_0805_RES","5.0000","6.7500","90","Resistor"
+"R6","1k","TopLayer","_0805_RES","9.5000","6.7500","90","Resistor"
+"R7","1k","TopLayer","_0805_RES","2.7500","6.7500","90","Resistor"
+"R8","1k","TopLayer","_0805_RES","7.2500","6.7500","90","Resistor"
+"U1","Z8L38210ASG","BottomLayer","QFP50P2200X2200X170-144N","1.0000","0.7500","360","High-Performance Data Communication Processor"
+"U2","DSC6013-010.0000","TopLayer","OSC_ABRACON_ASEMPC","7.0000","2.2500","0","Low-Power CMOS Oscillator"
+"U3","74LVC2G08DCT","TopLayer","SOP65P400X130-8N","-2.0000","-3.7500","90","DUAL 2-INPUT AND GATE"
+"U4","SST39LF040-55-4C-NHE","TopLayer","PLCC32-T/H_socket","-28.8290","3.1750","180","512Kx8 CMOS Multi-Purpose Flash"
+"U5","MCP795W22T-I/SL","TopLayer","SOIC127P600X175-14N","5.5000","-4.2500","90","SPI Real-Time Clock Calendar with  Enhanced Features and Battery Switchover"

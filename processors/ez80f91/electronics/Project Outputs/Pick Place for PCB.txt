@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+K:\Work\Z20X\processors\ez80f91\electronics\Project Outputs\Pick Place for PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       04/03/20
+Time:       14:05
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment           Layer       Footprint                Center-X(mm) Center-Y(mm) Rotation Description                            
+U2         511MLF            BottomLayer SOIC8                    7.0000       7.0000       270      "LOCO(tm) PLL CLOCK MULTIPLIER"        
+U1         eZ80F91AZ050SG    TopLayer    QFP50P2200X2200X160-144N 0.0000       -1.7500      360      "eZ80Acclaim!® Flash Microcontrollers" 
+R2         0R                BottomLayer _0805_RES                0.5000       6.2500       360      Resistor                               
+R1         499R              BottomLayer _0805_RES                7.7500       -4.5000      90       Resistor                               
+J1         DNF               TopLayer    2011-1X10S               1.0000       12.2500      360      "Single row, 10-way connector"         
+C11        100n              BottomLayer _0805_CAP                12.5000      7.0000       90       Capacitor                              
+C10        220p              BottomLayer _0805_CAP                4.5000       -5.7500      180      Capacitor                              
+C9         56n               BottomLayer _0805_CAP                4.5000       -3.2500      180      Capacitor                              
+C8         100n              BottomLayer _0805_CAP                2.5000       -12.5000     360      Capacitor                              
+C7         100n              BottomLayer _0805_CAP                -3.5000      -12.5000     360      Capacitor                              
+C6         100n              BottomLayer _0805_CAP                10.7500      -6.2500      90       Capacitor                              
+C5         100n              BottomLayer _0805_CAP                -10.7500     -8.2500      270      Capacitor                              
+C4         100n              BottomLayer _0805_CAP                9.2500       1.0000       180      Capacitor                              
+C3         100n              BottomLayer _0805_CAP                -10.7500     0.2500       270      Capacitor                              
+C2         100n              BottomLayer _0805_CAP                0.5000       9.0000       360      Capacitor                              
+C1         100n              BottomLayer _0805_CAP                -4.0000      9.0000       180      Capacitor                              
+MOD1       "Z20X CPU Module" BottomLayer PGA100X15                0.0000       0.0000       0        ""                                     

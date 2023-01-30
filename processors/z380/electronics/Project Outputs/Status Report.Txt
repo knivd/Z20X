@@ -1,0 +1,12 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [Z380-Z20X.PrjPcb]
+   Generated File[Fabrication Testpoint Report for PCB.txt]
+   Generated File[Fabrication Testpoint Report for PCB.csv]
+   Generated File[Fabrication Testpoint Report for PCB.ipc]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:40:44 On 09/03/2020

@@ -1,0 +1,12 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [ZNEO-Z20X.PrjPcb]
+   Generated File[Fabrication Testpoint Report for PCB.txt]
+   Generated File[Fabrication Testpoint Report for PCB.csv]
+   Generated File[Fabrication Testpoint Report for PCB.ipc]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:25:54 On 29/02/2020

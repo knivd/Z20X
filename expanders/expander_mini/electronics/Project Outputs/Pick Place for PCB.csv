@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+K:\Work\KNIVD\Z20X\expanders\expander_mini\electronics\Project Outputs\Pick Place for PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/05/21
+Time:       21:07
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"J1","","TopLayer","2011-2X36S-F","2.5400","-54.0000","90","Dual row, 72-way connector"
+"J2","","TopLayer","2011-2X36S-F","22.5400","-54.0000","90","Dual row, 72-way connector"
+"J3","","TopLayer","2011-2X36S-F","42.5400","-54.0000","90","Dual row, 72-way connector"
+"J4","","TopLayer","2011-2X36S-F","62.5400","-54.0000","90","Dual row, 72-way connector"
+"C1","10u","TopLayer","CAPRR508-350X500X500","7.7500","-98.4500","270","Capacitor"
+"C2","10u","TopLayer","CAPRR508-350X500X500","17.2500","-98.4500","270","Capacitor"
+"C3","10u","TopLayer","CAPRR508-350X500X500","37.2500","-98.4500","270","Capacitor"
+"C4","10u","TopLayer","CAPRR508-350X500X500","57.2500","-98.4500","270","Capacitor"

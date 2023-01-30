@@ -1,0 +1,116 @@
+Altium Designer Pick and Place Locations
+K:\Work\KNIVD\Z20X\main\electronics\Project Outputs\Pick Place for PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/05/21
+Time:       10:46
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment           Layer       Footprint                  Center-X(mm) Center-Y(mm) Rotation Description                                                      
+R41        10k               TopLayer    RES1016-660X250            141.0000     -11.7500     360      Resistor                                                         
+R40        10k               TopLayer    RES1016-660X250            141.0000     -8.2500      360      Resistor                                                         
+R39        10k               TopLayer    RES1016-660X250            107.5000     -11.7500     180      Resistor                                                         
+R38        10k               TopLayer    RES1016-660X250            107.5000     -8.2500      180      Resistor                                                         
+R36        220R              TopLayer    RES1016-660X250            24.0000      -10.2500     360      Resistor                                                         
+LED1       550-3509F         TopLayer    LED_DIALIGHT_550-3509F     12.0000      -22.7500     360      "Bicolor Red/Green  LED 1 Anode Red 2 Com Cathode 3 Anode Green" 
+U1         W25Q32JVDAIQ      TopLayer    DIP8-300                   167.0000     -13.5000     270      "3.3V Uniform Sector 64Mbit Dual and Quad Serial Flash"          
+R1         10k               TopLayer    RES1016-660X250            167.0000     -6.2500      360      Resistor                                                         
+C1         100n              TopLayer    CAPRR508-350X500X500       174.7500     -13.5000     90       Capacitor                                                        
+C21        10u               TopLayer    CAPRR508-350X500X500       20.7500      -87.2500     180      Capacitor                                                        
+D1         BAT81S            TopLayer    DO-35                      150.0000     -81.0000     270      "Schottky diode"                                                 
+R16        2k2               TopLayer    RES1016-660X250            153.0000     -103.0000    360      Resistor                                                         
+J1         ""                TopLayer    DIL72-M-R                  90.5000      -83.0000     360      "Dual row, 72-way connector"                                     
+Y3         9B-3.579545MAAJ-B TopLayer    XTAL_HC-49/U               46.5000      -18.5000     360      "Crystal Resonator"                                              
+Y2         AB26T-32.768KHZ   TopLayer    CRYSTAL_32768Hz            142.6499     -42.8251     270      "Crystal Resonator"                                              
+Y1         9B-18.432MAAJ-B   TopLayer    XTAL_HC-49/U               124.1499     -14.5001     180      "Crystal Resonator"                                              
+U9         LM386N-1/NOPB     TopLayer    DIP8-300                   24.0000      -23.0000     360      "Low Voltage Audio Power Amplifier"                              
+U7         TPS7133QP         TopLayer    DIP8-300                   27.0000      -96.0000     90       "500mA low drop-out linear regulator"                            
+U3         AS6C4008-55PCN    TopLayer    DIP32                      70.3999      -40.5001     270      "512K X 8 BIT LOW POWER CMOS SRAM"                               
+U6         YM2413B           TopLayer    DIP18-300                  43.0000      -35.0000     180      "OPLL FM Operator Type-LL"                                       
+U5         MCP120-300HI/TO   TopLayer    TO-92AA-P254               155.0000     -69.0000     270      "Microcontroller supervisory circuit with push-pull output"      
+U4         MCP1700-3302E/TO  TopLayer    TO-92AA-P254               144.5000     -76.0000     360      "3-terminal 250mA positive voltage regulator"                    
+U2         EZ80F92AZ020SG    TopLayer    QFP50P1600X1600X170-100N   111.2500     -41.7500     360      "eZ80Acclaim!® Flash Microcontrollers"                           
+SW1        OS102011MA1QN1    TopLayer    OS102011MA1QN1             2.3500       -12.0000     270      Switch                                                           
+SPK1       CMS-15113-078X    TopLayer    2011-1X02S                 4.5000       -32.5000     270      Speaker/Buzzer                                                   
+R35        10R               TopLayer    RES1016-660X250            32.5000      -24.5000     90       Resistor                                                         
+R31        2k2               TopLayer    RES1016-660X250            18.0000      -96.0000     270      Resistor                                                         
+R32        DNF               TopLayer    RES1016-660X250            24.0000      -14.0000     360      Resistor                                                         
+R30        2k2               TopLayer    RES1016-660X250            30.0000      -55.0000     180      Resistor                                                         
+R29        2k2               TopLayer    RES1016-660X250            30.0000      -48.0000     180      Resistor                                                         
+R28        4k7               TopLayer    RES1016-660X250            30.0000      -44.5000     180      Resistor                                                         
+R27        4k7               TopLayer    RES1016-660X250            30.0000      -51.5000     180      Resistor                                                         
+R26        10k               TopLayer    RES1016-660X250            111.0000     -71.5000     270      Resistor                                                         
+R25        10k               TopLayer    RES1016-660X250            107.5000     -71.5000     270      Resistor                                                         
+R24        10k               TopLayer    RES1016-660X250            104.0000     -71.5000     270      Resistor                                                         
+R23        10k               TopLayer    RES1016-660X250            80.0000      -71.5000     90       Resistor                                                         
+R22        10k               TopLayer    RES1016-660X250            100.5000     -71.5000     270      Resistor                                                         
+R21        10k               TopLayer    RES1016-660X250            83.5000      -71.5000     90       Resistor                                                         
+R20        10k               TopLayer    RES1016-660X250            97.0000      -71.5000     90       Resistor                                                         
+R37        4k7               TopLayer    RES1016-660X250            133.0000     -71.5000     90       Resistor                                                         
+R18        10k               TopLayer    RES1016-660X250            93.5000      -71.5000     90       Resistor                                                         
+R17        10k               TopLayer    RES1016-660X250            90.0000      -71.5000     90       Resistor                                                         
+R15        220R              TopLayer    RES1016-660X250            139.6499     -37.5001     360      Resistor                                                         
+R14        10k               TopLayer    RES1016-660X250            142.6499     -27.5001     270      Resistor                                                         
+R13        10k               TopLayer    RES1016-660X250            139.1499     -27.5001     270      Resistor                                                         
+R12        220R              TopLayer    RES1016-660X250            124.1499     -19.0001     360      Resistor                                                         
+R11        10k               TopLayer    RES1016-660X250            165.5000     -61.0000     360      Resistor                                                         
+R10        10k               TopLayer    RES1016-660X250            165.5000     -76.0000     360      Resistor                                                         
+R9         10k               TopLayer    RES1016-660X250            126.0000     -71.5000     270      Resistor                                                         
+R8         10k               TopLayer    RES1016-660X250            129.5000     -71.5000     270      Resistor                                                         
+R7         10k               TopLayer    RES1016-660X250            165.5000     -50.5000     180      Resistor                                                         
+R6         100k              TopLayer    RES1016-660X250            124.1499     -10.0001     360      Resistor                                                         
+R5         10k               TopLayer    RES1016-660X250            165.5000     -72.5000     180      Resistor                                                         
+R4         10k               TopLayer    RES1016-660X250            165.5000     -47.0000     180      Resistor                                                         
+R3         10k               TopLayer    RES1016-660X250            165.5000     -57.5000     180      Resistor                                                         
+R2         10k               TopLayer    RES1016-660X250            165.5000     -54.0000     180      Resistor                                                         
+Q1         IRFU9024NPBF      TopLayer    TO-251AA-V                 14.0000      -96.0000     90       "P-channel FET transistor"                                       
+MOD1       "LCD+SD module"   BottomLayer LCD_7"_SSD1963+RTP+SD      90.6499      -54.0001     180      "LCD module (SSD1963+SD+RTP)"                                    
+J6         XM7D-0512         TopLayer    WURTH_651005136521         5.0250       -96.0000     270      "MicroUSB type A/B, 5 Position SMT Right Angle Receptacle"       
+J5         SJ1-3535N         TopLayer    SJ1-3535NG                 9.7000       -41.9000     360      "Phono Jack (stereo)"                                            
+J4         MD-60SM           TopLayer    MD-60SM                    7.1500       -60.0000     90       "6-pin mini-DIN connector (female) PS/2"                         
+J3         MD-60SM           TopLayer    MD-60SM                    7.1500       -78.0000     90       "6-pin mini-DIN connector (female) PS/2"                         
+J2         67996-406HLF      TopLayer    SAMTEC_MTLW-103-07-L-D-250 148.1499     -27.5001     90       "Dual row, 6-way connector"                                      
+D2         BAT81S            TopLayer    DO-35                      153.0000     -81.0000     270      "Schottky diode"                                                 
+C32        220u/10V          TopLayer    CAPPR350-850X600           13.0000      -32.0000     90       "Polar capacitor"                                                
+C30        47n               TopLayer    CAPRR508-350X500X500       32.5000      -34.0000     180      Capacitor                                                        
+C29        10u               TopLayer    CAPRR508-350X500X500       24.0000      -31.5000     180      Capacitor                                                        
+C28        DNF               TopLayer    CAPRR508-350X500X500       24.0000      -36.5000     180      Capacitor                                                        
+C27        18p               TopLayer    CAPRR508-350X500X500       51.0000      -12.5000     360      Capacitor                                                        
+C26        18p               TopLayer    CAPRR508-350X500X500       42.0000      -12.5000     180      Capacitor                                                        
+C25        DNF               TopLayer    CAPRR508-350X500X500       32.5000      -14.0000     90       Capacitor                                                        
+C24        100p              TopLayer    CAPRR508-350X500X500       16.5000      -57.5000     90       Capacitor                                                        
+C23        100p              TopLayer    CAPRR508-350X500X500       21.0000      -57.5000     90       Capacitor                                                        
+C20        1u                TopLayer    CAPRR508-350X500X500       22.5000      -103.5000    180      Capacitor                                                        
+C19        10u               TopLayer    CAPRR508-350X500X500       18.5000      -51.5000     180      Capacitor                                                        
+C18        1u                TopLayer    CAPRR508-350X500X500       32.5000      -39.0000     180      Capacitor                                                        
+C6         100n              TopLayer    CAPRR508-350X500X500       74.8999      -17.0001     360      Capacitor                                                        
+C17        100n              TopLayer    CAPRR508-350X500X500       150.0000     -69.0000     270      Capacitor                                                        
+C16        100n              TopLayer    CAPRR508-350X500X500       113.6499     -63.5001     180      Capacitor                                                        
+C15        100n              TopLayer    CAPRR508-350X500X500       106.5000     -63.5000     360      Capacitor                                                        
+C14        100n              TopLayer    CAPRR508-350X500X500       134.6499     -43.0001     270      Capacitor                                                        
+C13        1u                TopLayer    CAPRR508-350X500X500       138.0000     -74.5000     90       Capacitor                                                        
+C12        10u               TopLayer    CAPRR508-350X500X500       144.5000     -80.5000     360      Capacitor                                                        
+C11        18p               TopLayer    CAPRR508-350X500X500       138.6499     -43.0001     90       Capacitor                                                        
+C10        100n              TopLayer    CAPRR508-350X500X500       88.1499      -44.5001     90       Capacitor                                                        
+C9         18p               TopLayer    CAPRR508-350X500X500       146.6499     -43.0001     90       Capacitor                                                        
+C8         100n              TopLayer    CAPRR508-350X500X500       88.1499      -35.7501     90       Capacitor                                                        
+C7         100n              TopLayer    CAPRR508-350X500X500       134.6499     -30.5001     90       Capacitor                                                        
+C5         100n              TopLayer    CAPRR508-350X500X500       113.1499     -19.0001     180      Capacitor                                                        
+C4         100n              TopLayer    CAPRR508-350X500X500       100.0000     -19.0000     360      Capacitor                                                        
+C3         18p               TopLayer    CAPRR508-350X500X500       120.1499     -6.0001      180      Capacitor                                                        
+C2         18p               TopLayer    CAPRR508-350X500X500       128.1499     -6.0001      360      Capacitor                                                        
+BH1        KEYSTONE-103      TopLayer    BATH_KEYSTONE_103          160.2500     -91.5311     360      "Battery holder for 20mm coin"                                   
+""         ""                TopLayer    OPEN_HARDWARE_LOGO         -1007.2281   -1486.3311   360      ""                                                               
+C31        1u                TopLayer    CAPRR508-350X500X500       28.5000      -75.5000     90       Capacitor                                                        
+R33        2k2               TopLayer    RES1016-660X250            33.5000      -66.5000     360      Resistor                                                         
+R34        2k2               TopLayer    RES1016-660X250            33.5000      -70.0000     360      Resistor                                                         
+U8         MCP2221-I/P       TopLayer    DIP14-300                  21.0000      -72.5000     180      ""                                                               
+C22        10u               TopLayer    CAPRR508-350X500X500       28.2500      -87.2500     360      Capacitor                                                        
+MOD2       "Z20X CPU Module" TopLayer    PGA100x15                  111.2500     -41.7500     0        ""                                                               
+D3         BAT81S            TopLayer    DO-35                      146.0000     -59.7500     180      "Schottky diode"                                                 
+R19        10k               TopLayer    RES1016-660X250            145.7500     -63.0000     360      Resistor                                                         
+J7         DNF               TopLayer    SAMTEC_MTLW-103-07-L-D-250 154.0000     -6.2500      180      "Dual row, 6-way connector"                                      
